@@ -1,0 +1,8 @@
+{
+    DE: 0.19,
+    UK: 0.20,
+    FR: 0.20,
+    IT: 0.22,
+    ES: 0.21,
+    US: 0.00, # divided by (1+0.0) returns the gross price or revenue -> no VAT
+}
